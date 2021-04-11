@@ -1,3 +1,5 @@
 quotes_dataset.csv
 saved_models
 .spyproject/
+dummy_data/cached_lm_GPT2TokenizerFast_1_test_dummy.txt
+dummy_data/cached_lm_GPT2TokenizerFast_1_train_dummy.txt
